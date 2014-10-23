@@ -1,4 +1,4 @@
 ROR
 ===
 
-Ruby On Rails tuts
+Ruby On Rails blair tuts
